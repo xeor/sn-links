@@ -83,9 +83,9 @@ class SN(object):
         if not links:
             return None
 
-        cur_episode_markup = '### Episode %s\n' % str(episode_num)
+        cur_episode_markup = '### Episode %s\n\n' % str(episode_num)
 
-        links = ['[%s](%s)' % (l, l) for l in links]
+        links = ['* [%s](http://%s)' % (l, l) for l in links]
         cur_episode_markup += '\n'.join(links)
 
         self.markup += '%s\n\n' % cur_episode_markup
