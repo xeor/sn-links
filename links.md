@@ -96,8 +96,8 @@
 
 ### Episode 374
 
+* [authentec.com/PS](http://authentec.com/PS)
 * [grc.com/health/lowcarb.htm](http://grc.com/health/lowcarb.htm)
-* [authentec.com/PS"](http://authentec.com/PS")
 * [authentec.com/Downloads/Windows/ProtectorSuite.aspx](http://authentec.com/Downloads/Windows/ProtectorSuite.aspx)
 * [authentec.com/PSupdate2012](http://authentec.com/PSupdate2012)
 
@@ -119,7 +119,6 @@
 ### Episode 369
 
 * [claimid.com/leo](http://claimid.com/leo)
-* [intrepidusgroup.com/insight;](http://intrepidusgroup.com/insight;)
 * [intrepidusgroup.com/insight](http://intrepidusgroup.com/insight)
 
 ### Episode 368
@@ -191,8 +190,8 @@
 
 ### Episode 350
 
-* [bit.ly/sn-clouds](http://bit.ly/sn-clouds)
 * [haystacksoftware.com/arq](http://haystacksoftware.com/arq)
+* [bit.ly/sn-clouds](http://bit.ly/sn-clouds)
 
 ### Episode 348
 
@@ -270,7 +269,6 @@
 
 ### Episode 329
 
-* [grc.com/feedback;](http://grc.com/feedback;)
 * [grc.com/offthegrid](http://grc.com/offthegrid)
 
 ### Episode 328
@@ -415,7 +413,6 @@
 ### Episode 287
 
 * [videoland.org/vlc](http://videoland.org/vlc)
-* [verizonwireless.com/vzwoptimization."](http://verizonwireless.com/vzwoptimization.")
 * [verizonwireless.com/vzwoptimization](http://verizonwireless.com/vzwoptimization)
 
 ### Episode 286
@@ -475,7 +472,7 @@
 ### Episode 270
 
 * [google.com/evercookie/cache/b](http://google.com/evercookie/cache/b)
-* [samy.pl/evercookie/">http://samy.pl/evercookie/</a>)](http://samy.pl/evercookie/">http://samy.pl/evercookie/</a>))
+* [samy.pl/evercookie/">http://samy.pl/evercookie/</a>](http://samy.pl/evercookie/">http://samy.pl/evercookie/</a>)
 * [google.com/evercookie/cache](http://google.com/evercookie/cache)
 * [samy.pl/evercookie](http://samy.pl/evercookie)
 
@@ -490,7 +487,7 @@
 
 ### Episode 267
 
-* [adobe.com/flash)](http://adobe.com/flash))
+* [adobe.com/flash](http://adobe.com/flash)
 * [calpoly.edu/networksecinfo.html](http://calpoly.edu/networksecinfo.html)
 * [youtube.com/v3dgames](http://youtube.com/v3dgames)
 
@@ -917,7 +914,6 @@
 ### Episode 163
 
 * [aol.com/podcasting](http://aol.com/podcasting)
-* [grc.com/feedback."](http://grc.com/feedback.")
 
 ### Episode 162
 
@@ -1324,7 +1320,7 @@
 * [grc.com/sn/files/Cross_Site_Scripting_March_2007.txt](http://grc.com/sn/files/Cross_Site_Scripting_March_2007.txt)
 * [aol.com/podcasting](http://aol.com/podcasting)
 * [grc.com/sn/SN-085a-lq.mp3](http://grc.com/sn/SN-085a-lq.mp3)
-* [grc.com/sn/SN-085a.mp3;](http://grc.com/sn/SN-085a.mp3;)
+* [grc.com/sn/SN-085a.mp3](http://grc.com/sn/SN-085a.mp3)
 * [grc.com/sn/SN-086.mp3](http://grc.com/sn/SN-086.mp3)
 
 ### Episode 85
@@ -1500,7 +1496,6 @@
 
 * [grc.com/sn/SN-057.mp3](http://grc.com/sn/SN-057.mp3)
 * [aol.com/podcasting](http://aol.com/podcasting)
-* [twit.tv/dell);](http://twit.tv/dell);)
 * [twit.tv/dell](http://twit.tv/dell)
 
 ### Episode 56
