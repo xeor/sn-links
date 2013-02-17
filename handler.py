@@ -56,7 +56,7 @@ class SN(object):
     def _get_links(self, raw_txt, episode_num):
         all_links = []
 
-        all_links += re.findall(r'bit.ly/[a-zA-Z0-9-]+', raw_txt)
+        #all_links += re.findall(r'bit.ly/[a-zA-Z0-9-]+', raw_txt)  # Covered by the rule below
         all_links += re.findall(r'[a-zA-Z0-9-]{3,30}\.[a-zA-Z]{2,5}/[^ \n\r]+', raw_txt)
 
         final_list = []
@@ -67,7 +67,7 @@ class SN(object):
             parts[0] = parts[0].lower()
             link = '/'.join(parts)
 
-            link = re.sub(r'[\.,]+$', '', link)  # Take away ending . or ,
+            link = re.sub(r'[\.,";)]+$', '', link)  # Take away some ending characters
             link = re.sub(r'[\[\]]', '', link)   # Take away [, ] characters, which are some times put around the links in the text
             if link in [
                 'creativecommons.org/licenses/by-nc-sa/2.5/', 'grc.com/securitynow.htm', 'grc.com/feedback', 'twit.tv/sn',
