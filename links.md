@@ -1,5 +1,13 @@
 ## SecurityNow links (newest on top)
 
+### Episode 392
+
+* [bit.ly/xorxor](http://bit.ly/xorxor)
+* [bit.ly/WR2dvJ](http://bit.ly/WR2dvJ)
+* [manpacks.com/twit](http://manpacks.com/twit)
+* [adobe.com/downloads/updates](http://adobe.com/downloads/updates)
+* [bit.ly/WR2IG8](http://bit.ly/WR2IG8)
+
 ### Episode 391
 
 * [grc.com/pdp-8/pdp-8](http://grc.com/pdp-8/pdp-8)
