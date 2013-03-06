@@ -1,5 +1,12 @@
 ## SecurityNow links (newest on top)
 
+### Episode 393
+
+* [askmrwizard.com/securitynow](http://askmrwizard.com/securitynow)
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [grc.com/cookies/stats.htm](http://grc.com/cookies/stats.htm)
+* [bit.ly/bitter-pill](http://bit.ly/bitter-pill)
+
 ### Episode 392
 
 * [bit.ly/xorxor](http://bit.ly/xorxor)
