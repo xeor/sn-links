@@ -1,5 +1,9 @@
 ## SecurityNow links (newest on top)
 
+### Episode 394
+
+* [audiblepodcast.com/securitynow](http://audiblepodcast.com/securitynow)
+
 ### Episode 393
 
 * [askmrwizard.com/securitynow](http://askmrwizard.com/securitynow)
