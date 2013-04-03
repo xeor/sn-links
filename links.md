@@ -1,5 +1,21 @@
 ## SecurityNow links (newest on top)
 
+### Episode 397
+
+* [bit.ly/sggrc](http://bit.ly/sggrc)
+* [grc.com/animation.htm](http://grc.com/animation.htm)
+
+### Episode 396
+
+* [bit.ly/interscan](http://bit.ly/interscan)
+
+### Episode 395
+
+* [cryptographyengineering.com/2013/03/attack-of-week-rc4-is-kind-of-broken-in.html](http://cryptographyengineering.com/2013/03/attack-of-week-rc4-is-kind-of-broken-in.html)
+* [askmrwizard.com/securitynow](http://askmrwizard.com/securitynow)
+* [arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams)
+* [kickstarter.com/projects/1106670630/mojo-digital-design-for-the-hobbyist](http://kickstarter.com/projects/1106670630/mojo-digital-design-for-the-hobbyist)
+
 ### Episode 394
 
 * [audiblepodcast.com/securitynow](http://audiblepodcast.com/securitynow)
