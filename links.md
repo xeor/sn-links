@@ -1,5 +1,28 @@
 ## SecurityNow links (newest on top)
 
+### Episode 401
+
+* [grc.com/fingerprints.htm](http://grc.com/fingerprints.htm)
+
+### Episode 400
+
+* [proxpn.com/twit](http://proxpn.com/twit)
+* [gizmodo.com/5994446](http://gizmodo.com/5994446)
+
+### Episode 399
+
+* [bit.ly/sggrc](http://bit.ly/sggrc)
+* [twitter.com/sggrc](http://twitter.com/sggrc)
+* [justin.tv/twit/videos](http://justin.tv/twit/videos)
+
+### Episode 398
+
+* [bit.ly/sggrc](http://bit.ly/sggrc)
+* [bit.ly/javaage](http://bit.ly/javaage)
+* [thinkgeek.com/product/f487](http://thinkgeek.com/product/f487)
+* [grc.com/fingerprints](http://grc.com/fingerprints)
+* [askmrwizard.com/securitynow](http://askmrwizard.com/securitynow)
+
 ### Episode 397
 
 * [bit.ly/sggrc](http://bit.ly/sggrc)
