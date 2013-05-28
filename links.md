@@ -1,5 +1,34 @@
 ## SecurityNow links (newest on top)
 
+### Episode 405
+
+* [goo.gl/fNDka](http://goo.gl/fNDka)
+* [askmrwizard.com/securitynow](http://askmrwizard.com/securitynow)
+* [kck.st/12rTG3J](http://kck.st/12rTG3J)
+* [wikipedia.org/wiki/Pi#Motivations_for_computing_.CF.80](http://wikipedia.org/wiki/Pi#Motivations_for_computing_.CF.80)
+
+### Episode 404
+
+* [renesys.com/blog](http://renesys.com/blog)
+* [twitter.com/sggrc](http://twitter.com/sggrc)
+* [bit.ly/128TXYZ](http://bit.ly/128TXYZ)
+* [bit.ly/sggrc](http://bit.ly/sggrc)
+
+### Episode 403
+
+* [bit.ly/snnimoy](http://bit.ly/snnimoy)
+* [imageshack.us/photo/my-images/832/ohnetitelf.png/](http://imageshack.us/photo/my-images/832/ohnetitelf.png/)
+* [imageshack.us/photo/my-images/407/ohnetitelt.png/](http://imageshack.us/photo/my-images/407/ohnetitelt.png/)
+* [bit.ly/10RQX89](http://bit.ly/10RQX89)
+
+### Episode 402
+
+* [cern.ch/hypertext/WWW/TheProject.html](http://cern.ch/hypertext/WWW/TheProject.html)
+* [bit.ly/whyback](http://bit.ly/whyback)
+* [askmisterwizard.com/EZINE/SecurityNow/SN025/SN025All.htm](http://askmisterwizard.com/EZINE/SecurityNow/SN025/SN025All.htm)
+* [grc.com/fingerprints.htm](http://grc.com/fingerprints.htm)
+* [bit.ly/iosopenvpn](http://bit.ly/iosopenvpn)
+
 ### Episode 401
 
 * [grc.com/fingerprints.htm](http://grc.com/fingerprints.htm)
