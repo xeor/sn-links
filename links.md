@@ -1,5 +1,31 @@
 ## SecurityNow links (newest on top)
 
+### Episode 409
+
+* [bit.ly/sn408n](http://bit.ly/sn408n)
+* [bit.ly/sn408](http://bit.ly/sn408)
+
+### Episode 408
+
+* [bit.ly/sn408y](http://bit.ly/sn408y)
+* [bit.ly/sn408x](http://bit.ly/sn408x)
+* [cryptome.org/klein-decl.htm](http://cryptome.org/klein-decl.htm)
+* [eff.org/NSA-spying](http://eff.org/NSA-spying)
+* [bit.ly/sn408a](http://bit.ly/sn408a)
+* [bit.ly/sn408c](http://bit.ly/sn408c)
+* [bit.ly/sn408b](http://bit.ly/sn408b)
+
+### Episode 407
+
+* [today.com/15ByCtB](http://today.com/15ByCtB)
+* [bit.ly/1b4psXV](http://bit.ly/1b4psXV)
+
+### Episode 406
+
+* [cypherpunks.ca/otr](http://cypherpunks.ca/otr)
+* [kck.st/154D8Ba](http://kck.st/154D8Ba)
+* [ars.to/15iZSgq](http://ars.to/15iZSgq)
+
 ### Episode 405
 
 * [goo.gl/fNDka](http://goo.gl/fNDka)
