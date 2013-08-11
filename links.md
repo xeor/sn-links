@@ -1,5 +1,30 @@
 ## SecurityNow links (newest on top)
 
+### Episode 416
+
+* [bit.ly/checkcookie](http://bit.ly/checkcookie)
+* [bit.ly/section215](http://bit.ly/section215)
+
+### Episode 415
+
+* [twit.tv/sn414](http://twit.tv/sn414)
+* [nsa.gov/research/selinux](http://nsa.gov/research/selinux)
+* [nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml](http://nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml)
+* [youtube.com/watch?v=r0AgBecuFdU](http://youtube.com/watch?v=r0AgBecuFdU)
+
+### Episode 414
+
+* [cnet.com/8301-13578_3-57595202-38/feds-put-heat-on-web-firms-for-master-encryption-keys](http://cnet.com/8301-13578_3-57595202-38/feds-put-heat-on-web-firms-for-master-encryption-keys)
+
+### Episode 413
+
+* [spiritusvult.com/algorithm.pdf](http://spiritusvult.com/algorithm.pdf)
+* [eyeo.com/images/acceptable-ads-facts.png](http://eyeo.com/images/acceptable-ads-facts.png)
+
+### Episode 412
+
+* [iana.org/assignments/tls-parameters/tls-parameters.xhtml](http://iana.org/assignments/tls-parameters/tls-parameters.xhtml)
+
 ### Episode 409
 
 * [bit.ly/sn408n](http://bit.ly/sn408n)
