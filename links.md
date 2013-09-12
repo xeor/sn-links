@@ -1,5 +1,28 @@
 ## SecurityNow links (newest on top)
 
+### Episode 420
+
+* [bit.ly/1e6DJYn](http://bit.ly/1e6DJYn)
+* [com.br/fsp/mundo/127105-governo-brasileiro-quer-e-mail-nacional-contra-bisbilhotice.shtml](http://com.br/fsp/mundo/127105-governo-brasileiro-quer-e-mail-nacional-contra-bisbilhotice.shtml)
+* [google.com/translate?sl=auto&tl=](http://google.com/translate?sl=auto&tl=)
+* [cryptome.org/2013/09/computer-forensics-2013-hoax.pdf](http://cryptome.org/2013/09/computer-forensics-2013-hoax.pdf)
+* [cryptome.org/2013/09/computer-forensics-2012.pdf](http://cryptome.org/2013/09/computer-forensics-2012.pdf)
+
+### Episode 419
+
+* [xkcd.com/1256](http://xkcd.com/1256)
+* [grc.com/passwords](http://grc.com/passwords)
+
+### Episode 418
+
+* [bit.ly/13RuIet](http://bit.ly/13RuIet)
+* [bit.ly/19kYAEh](http://bit.ly/19kYAEh)
+* [twit.tv/nye](http://twit.tv/nye)
+
+### Episode 417
+
+* [bit.ly/checkcookie](http://bit.ly/checkcookie)
+
 ### Episode 416
 
 * [bit.ly/checkcookie](http://bit.ly/checkcookie)
