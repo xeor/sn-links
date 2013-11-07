@@ -1,5 +1,48 @@
 ## SecurityNow links (newest on top)
 
+### Episode 428
+
+* [twit.tv/tri](http://twit.tv/tri)
+* [grc.com/sqrl/idlock.htm](http://grc.com/sqrl/idlock.htm)
+* [twit.tv/nye](http://twit.tv/nye)
+* [wapo.st/HuOzL9](http://wapo.st/HuOzL9)
+* [bit.ly/blockcl](http://bit.ly/blockcl)
+* [bit.ly/SGgrc](http://bit.ly/SGgrc)
+* [bit.ly/bleeping](http://bit.ly/bleeping)
+
+### Episode 426
+
+* [grc.com/sqrl](http://grc.com/sqrl)
+* [bit.ly/sn-264](http://bit.ly/sn-264)
+* [bit.ly/sn-246](http://bit.ly/sn-246)
+* [rally.org/lavabit](http://rally.org/lavabit)
+
+### Episode 425
+
+* [grc.com/discussions](http://grc.com/discussions)
+* [bit.ly/grc-lb](http://bit.ly/grc-lb)
+* [grc.com/sqrl](http://grc.com/sqrl)
+
+### Episode 424
+
+* [amazon.com/sqrl?](http://amazon.com/sqrl?)
+* [grc.com/sqrl](http://grc.com/sqrl)
+* [bittorrent.com/experiments/bittorrent-chat.html](http://bittorrent.com/experiments/bittorrent-chat.html)
+* [grc.com/sqrl/sqrl.htm](http://grc.com/sqrl/sqrl.htm)
+
+### Episode 423
+
+* [grc.com/securitynow](http://grc.com/securitynow)
+
+### Episode 422
+
+* [bit.ly/1gyQ31T](http://bit.ly/1gyQ31T)
+* [grc.com/discussions](http://grc.com/discussions)
+
+### Episode 421
+
+* [grc.com/discussions](http://grc.com/discussions)
+
 ### Episode 420
 
 * [bit.ly/1e6DJYn](http://bit.ly/1e6DJYn)
