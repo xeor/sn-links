@@ -1,5 +1,30 @@
 ## SecurityNow links (newest on top)
 
+### Episode 431
+
+* [twit.tv/survey](http://twit.tv/survey)
+* [mit.edu/~xi/papers/stack-sosp13.pdf](http://mit.edu/~xi/papers/stack-sosp13.pdf)
+* [twit.tv/nye](http://twit.tv/nye)
+* [popularresistance.org/court-demands-how-does-government-turn-off-the-Internet](http://popularresistance.org/court-demands-how-does-government-turn-off-the-Internet)
+* [ietf.org/wg/](http://ietf.org/wg/)
+* [securitycurrent.com/en/research/ac_research/mot-researchers-uncover-security-flaws-in-c](http://securitycurrent.com/en/research/ac_research/mot-researchers-uncover-security-flaws-in-c)
+
+### Episode 430
+
+* [backblaze.com/2013/11/12/how-long-do-disk-drives-last](http://backblaze.com/2013/11/12/how-long-do-disk-drives-last)
+* [adobe.com/software/flash/about](http://adobe.com/software/flash/about)
+* [lastpass.com/adobe](http://lastpass.com/adobe)
+* [bit.ly/notiff](http://bit.ly/notiff)
+
+### Episode 429
+
+* [bit.ly/1bYTopN](http://bit.ly/1bYTopN)
+* [bit.ly/lavanot](http://bit.ly/lavanot)
+* [lastpass.com/adobe](http://lastpass.com/adobe)
+* [bit.ly/nodobe](http://bit.ly/nodobe)
+* [xkcd.com/1286](http://xkcd.com/1286)
+* [bit.ly/notiff](http://bit.ly/notiff)
+
 ### Episode 428
 
 * [twit.tv/tri](http://twit.tv/tri)
