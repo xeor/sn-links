@@ -1,5 +1,34 @@
 ## SecurityNow links (newest on top)
 
+### Episode 435
+
+* [bit.ly/HHitunes](http://bit.ly/HHitunes)
+* [bit.ly/HHkindle](http://bit.ly/HHkindle)
+* [youtube.com/watch?v=wMayn0vdCpM](http://youtube.com/watch?v=wMayn0vdCpM)
+* [grc.com/miscfiles/SChannel_Cipher_Suites.txt](http://grc.com/miscfiles/SChannel_Cipher_Suites.txt)
+* [eff.org/r.fudf](http://eff.org/r.fudf)
+* [youtube.com/watch?v=8pcWlyUu8U4](http://youtube.com/watch?v=8pcWlyUu8U4)
+
+### Episode 434
+
+* [showlink.in/Bob](http://showlink.in/Bob)
+* [bit.ly/2falist](http://bit.ly/2falist)
+
+### Episode 433
+
+* [columbia.edu/~smb/nsam-160/pal.html](http://columbia.edu/~smb/nsam-160/pal.html)
+* [bit.ly/sggrc](http://bit.ly/sggrc)
+
+### Episode 432
+
+* [aliencg.com/journal/2013/11/24/CryptoLocker](http://aliencg.com/journal/2013/11/24/CryptoLocker)
+* [bit.ly/tweetfmt](http://bit.ly/tweetfmt)
+* [grc.com/securitynow](http://grc.com/securitynow)
+* [eff.org/deeplinks/2013/11/encrypt-web-report-whos-doing-what](http://eff.org/deeplinks/2013/11/encrypt-web-report-whos-doing-what)
+* [grc.com/malware](http://grc.com/malware)
+* [bit.ly/SGgrc](http://bit.ly/SGgrc)
+* [foolishit.com/vb6-projects/cryptoprevent](http://foolishit.com/vb6-projects/cryptoprevent)
+
 ### Episode 431
 
 * [twit.tv/survey](http://twit.tv/survey)
