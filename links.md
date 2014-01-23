@@ -1,5 +1,23 @@
 ## SecurityNow links (newest on top)
 
+### Episode 438
+
+* [bit.ly/nsa-ref](http://bit.ly/nsa-ref)
+* [bit.ly/nsa-ant](http://bit.ly/nsa-ant)
+* [bit.ly/port32764](http://bit.ly/port32764)
+* [bit.ly/port](http://bit.ly/port)
+
+### Episode 437
+
+* [twit.tv/SN](http://twit.tv/SN)
+* [grc.com/portprobe=](http://grc.com/portprobe=)
+* [bit.ly/sgscifi](http://bit.ly/sgscifi)
+* [bit.ly/nsa-ant](http://bit.ly/nsa-ant)
+* [grc.com/x/portprobe=32764](http://grc.com/x/portprobe=32764)
+* [bit.ly/](http://bit.ly/)
+* [grc.com/portprobe=32764](http://grc.com/portprobe=32764)
+* [youtube.com/insidetwit](http://youtube.com/insidetwit)
+
 ### Episode 435
 
 * [bit.ly/HHitunes](http://bit.ly/HHitunes)
