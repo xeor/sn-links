@@ -1,5 +1,17 @@
 ## SecurityNow links (newest on top)
 
+### Episode 440
+
+* [grc.com/malware](http://grc.com/malware)
+* [breaknenter.org/projects/inception](http://breaknenter.org/projects/inception)
+* [grc.com/sqrl/scrypt](http://grc.com/sqrl/scrypt)
+* [bit.ly/port32764](http://bit.ly/port32764)
+
+### Episode 439
+
+* [bit.ly/port32764](http://bit.ly/port32764)
+* [bit.ly/bo-nsa](http://bit.ly/bo-nsa)
+
 ### Episode 438
 
 * [bit.ly/nsa-ref](http://bit.ly/nsa-ref)
