@@ -1,5 +1,13 @@
 ## SecurityNow links (newest on top)
 
+### Episode 441
+
+* [bit.ly/sgtid](http://bit.ly/sgtid)
+* [bit.ly/sn441](http://bit.ly/sn441)
+* [bit.ly/](http://bit.ly/)
+* [grc.com/sqrl/key-flow.htm](http://grc.com/sqrl/key-flow.htm)
+* [bit.ly/sn441sheet](http://bit.ly/sn441sheet)
+
 ### Episode 440
 
 * [grc.com/malware](http://grc.com/malware)
