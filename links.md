@@ -1,5 +1,23 @@
 ## SecurityNow links (newest on top)
 
+### Episode 444
+
+* [bit.ly/sgrails](http://bit.ly/sgrails)
+* [grc.com/sqrl/operation](http://grc.com/sqrl/operation)
+* [bit.ly/sqrlui](http://bit.ly/sqrlui)
+
+### Episode 443
+
+* [grc.com/sqrl](http://grc.com/sqrl)
+* [bit.ly/sqrlui](http://bit.ly/sqrlui)
+* [bit.ly/themoonworm](http://bit.ly/themoonworm)
+* [nullfluid.com/asusgate.txt](http://nullfluid.com/asusgate.txt)
+
+### Episode 442
+
+* [google.com/safetycenter](http://google.com/safetycenter)
+* [grc.com/sn/sn-442-notes.pdf](http://grc.com/sn/sn-442-notes.pdf)
+
 ### Episode 441
 
 * [bit.ly/sgtid](http://bit.ly/sgtid)
