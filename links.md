@@ -1,5 +1,30 @@
 ## SecurityNow links (newest on top)
 
+### Episode 449
+
+* [grc.com/passwords](http://grc.com/passwords)
+
+### Episode 448
+
+* [twit.tv/tri](http://twit.tv/tri)
+* [microsoft.com/emet](http://microsoft.com/emet)
+
+### Episode 447
+
+* [crowdin.net/project/sqrl](http://crowdin.net/project/sqrl)
+* [bit.ly/sn-google](http://bit.ly/sn-google)
+
+### Episode 446
+
+* [crowdin.net/project/sqrl](http://crowdin.net/project/sqrl)
+* [crowdin.net/projects/sqrl](http://crowdin.net/projects/sqrl)
+* [bit.ly/sn-snowden](http://bit.ly/sn-snowden)
+* [youtube.com/aclvideos](http://youtube.com/aclvideos)
+
+### Episode 445
+
+* [flexcoin.com/118.html](http://flexcoin.com/118.html)
+
 ### Episode 444
 
 * [bit.ly/sgrails](http://bit.ly/sgrails)
