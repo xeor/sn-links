@@ -1,5 +1,72 @@
 ## SecurityNow links (newest on top)
 
+### Episode 470
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+
+### Episode 469
+
+* [grc.com/securitynow?](http://grc.com/securitynow?)
+
+### Episode 467
+
+* [srlabs.de/badusb](http://srlabs.de/badusb)
+
+### Episode 466
+
+* [browserleaks.com/canvas](http://browserleaks.com/canvas)
+
+### Episode 464
+
+* [nytimes.com/blogs](http://nytimes.com/blogs)
+* [twit.tv/apps](http://twit.tv/apps)
+
+### Episode 463
+
+* [grc.com/SpinRite](http://grc.com/SpinRite)
+* [grc.com/fivemoreyears.reg](http://grc.com/fivemoreyears.reg)
+
+### Episode 462
+
+* [bit.ly/NH3-Cracking](http://bit.ly/NH3-Cracking)
+* [bit.ly/alexahttps](http://bit.ly/alexahttps)
+* [bit.ly/sn-css](http://bit.ly/sn-css)
+
+### Episode 461
+
+* [eff.org/files/2014/05/28/open-wifi-copyright_0.pdf](http://eff.org/files/2014/05/28/open-wifi-copyright_0.pdf)
+
+### Episode 457
+
+* [digicert.com/help](http://digicert.com/help)
+* [sethleedy.name/?p=24172](http://sethleedy.name/?p=24172)
+
+### Episode 456
+
+* [amctv.com/full-episodes/halt-and-catch-fire/3571290828001/i-o-sneak-preview](http://amctv.com/full-episodes/halt-and-catch-fire/3571290828001/i-o-sneak-preview)
+
+### Episode 454
+
+* [cyphase.com/securitynowstats](http://cyphase.com/securitynowstats)
+
+### Episode 453
+
+* [digicert.com/help](http://digicert.com/help)
+* [bit.ly/crlsets](http://bit.ly/crlsets)
+
+### Episode 452
+
+* [twit.tv/tri125](http://twit.tv/tri125)
+* [bit.ly/sn-452](http://bit.ly/sn-452)
+
+### Episode 451
+
+* [truecrypt.org/docs](http://truecrypt.org/docs)
+* [xkcd.com/730](http://xkcd.com/730)
+* [xkcd.com/1354](http://xkcd.com/1354)
+* [bit.ly/sn-451](http://bit.ly/sn-451)
+* [cloudflarechallenge.com/heartbleed](http://cloudflarechallenge.com/heartbleed)
+
 ### Episode 449
 
 * [grc.com/passwords](http://grc.com/passwords)
