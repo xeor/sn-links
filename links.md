@@ -1,5 +1,17 @@
 ## SecurityNow links (newest on top)
 
+### Episode 475
+
+* [apple.com/downloads](http://apple.com/downloads)
+
+### Episode 474
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+
+### Episode 473
+
+* [twit.tv/tri167](http://twit.tv/tri167)
+
 ### Episode 470
 
 * [youtube.com/securitynow](http://youtube.com/securitynow)
