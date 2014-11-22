@@ -1,5 +1,18 @@
 ## SecurityNow links (newest on top)
 
+### Episode 482
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [grc.com/sqrl/demo.htm](http://grc.com/sqrl/demo.htm)
+
+### Episode 480
+
+* [github.com/therealjampers/spritzjs](http://github.com/therealjampers/spritzjs)
+
+### Episode 479
+
+* [lessonslearned.org/sniff](http://lessonslearned.org/sniff)
+
 ### Episode 475
 
 * [apple.com/downloads](http://apple.com/downloads)
