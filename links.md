@@ -1,5 +1,54 @@
 ## SecurityNow links (newest on top)
 
+### Episode 496
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [grc.com/SQRL](http://grc.com/SQRL)
+* [filippo.io/Badfish](http://filippo.io/Badfish)
+* [grc.com/securitynow?](http://grc.com/securitynow?)
+
+### Episode 495
+
+* [bit.ly/bad-hdd](http://bit.ly/bad-hdd)
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [bit.ly/freezecredit](http://bit.ly/freezecredit)
+
+### Episode 494
+
+* [grc.com/dev/lrs](http://grc.com/dev/lrs)
+* [bit.ly/sslslides](http://bit.ly/sslslides)
+* [grc.com/securitynow](http://grc.com/securitynow)
+* [bit.ly/sqrlslides](http://bit.ly/sqrlslides)
+* [bit.ly/carhacking](http://bit.ly/carhacking)
+* [cloudflare.com/hc/en-us/articles/200170416](http://cloudflare.com/hc/en-us/articles/200170416)
+
+### Episode 493
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+
+### Episode 491
+
+* [bit.ly/sn-491](http://bit.ly/sn-491)
+
+### Episode 489
+
+* [bit.ly/grcciphers](http://bit.ly/grcciphers)
+* [spiceworks.com/how_to/show/59664-free-almost-](http://spiceworks.com/how_to/show/59664-free-almost-)
+* [twit.tv/specials](http://twit.tv/specials)
+
+### Episode 488
+
+* [twit.tv/nye](http://twit.tv/nye)
+
+### Episode 486
+
+* [bit.ly/grcciphers](http://bit.ly/grcciphers)
+* [bit.ly/sands-attack](http://bit.ly/sands-attack)
+
+### Episode 484
+
+* [foreignpolicy.com/posts/2014/11/24/this_malware_may_have_gotten_the_nsa_caught_with_its_hand_in_the_cookie_jar](http://foreignpolicy.com/posts/2014/11/24/this_malware_may_have_gotten_the_nsa_caught_with_its_hand_in_the_cookie_jar)
+
 ### Episode 482
 
 * [youtube.com/securitynow](http://youtube.com/securitynow)
