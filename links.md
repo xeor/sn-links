@@ -1,5 +1,157 @@
 ## SecurityNow links (newest on top)
 
+### Episode 529
+
+* [twit.tv/live](http://twit.tv/live)
+
+### Episode 528
+
+* [medium.com/@robleathern/carriers-are-making-more-from-mobile-ads-than-publishers-are-d5d3c0827b39](http://medium.com/@robleathern/carriers-are-making-more-from-mobile-ads-than-publishers-are-d5d3c0827b39)
+
+### Episode 527
+
+* [bit.ly/sn527](http://bit.ly/sn527)
+* [microsoft.com/security](http://microsoft.com/security)
+* [grc.com/passwords](http://grc.com/passwords)
+
+### Episode 525
+
+* [twit.tv/live](http://twit.tv/live)
+
+### Episode 524
+
+* [bit.ly/sn-524](http://bit.ly/sn-524)
+
+### Episode 523
+
+* [twit.tv/live](http://twit.tv/live)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [grc.com/animation.htm](http://grc.com/animation.htm)
+
+### Episode 522
+
+* [bit.ly/sn-522](http://bit.ly/sn-522)
+* [grc.com/sn/SN-521.mp3](http://grc.com/sn/SN-521.mp3)
+
+### Episode 521
+
+* [tresorit.com/business/wuala-alternative](http://tresorit.com/business/wuala-alternative)
+
+### Episode 520
+
+* [eff.org/dnt-policy](http://eff.org/dnt-policy)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [adobe.com/software/flash/about](http://adobe.com/software/flash/about)
+
+### Episode 518
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+
+### Episode 517
+
+* [grc.com/SQRL](http://grc.com/SQRL)
+* [driveuconnect.com/software-update](http://driveuconnect.com/software-update)
+
+### Episode 516
+
+* [grc.com/sqrl/logo.htm](http://grc.com/sqrl/logo.htm)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+
+### Episode 515
+
+* [spiegel.de/international/germany/the-nsa-and-american-spies-targeted-spiegel-a-1042023.html](http://spiegel.de/international/germany/the-nsa-and-american-spies-targeted-spiegel-a-1042023.html)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [grc.com/passwords](http://grc.com/passwords)
+
+### Episode 514
+
+* [adobe.com/software/flash/about](http://adobe.com/software/flash/about)
+* [x10.mx/apps](http://x10.mx/apps)
+* [grc.com/passwords](http://grc.com/passwords)
+
+### Episode 513
+
+* [nowsecure.com/blog/2015/06/16/remote-code-execution-as-system-user-on-samsung-phones/](http://nowsecure.com/blog/2015/06/16/remote-code-execution-as-system-user-on-samsung-phones/)
+* [bit.ly/pdp8kit](http://bit.ly/pdp8kit)
+* [twit.tv/live](http://twit.tv/live)
+* [grc.com/haystack.htm](http://grc.com/haystack.htm)
+* [wikipedia.org/wiki/communism](http://wikipedia.org/wiki/communism)
+* [swiftkey.net/samsung/download/](http://swiftkey.net/samsung/download/)
+* [bit.ly/sn-sam](http://bit.ly/sn-sam)
+
+### Episode 512
+
+* [twit.tv/live](http://twit.tv/live)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+
+### Episode 511
+
+* [mozilla.org/Security/Server_Side_TLS](http://mozilla.org/Security/Server_Side_TLS)
+
+### Episode 510
+
+* [bit.ly/sn-510a](http://bit.ly/sn-510a)
+* [ghostbin.com/paste/zws9m](http://ghostbin.com/paste/zws9m)
+* [bit.ly/sn-510](http://bit.ly/sn-510)
+* [microsoft.com/windows/preview-download](http://microsoft.com/windows/preview-download)
+* [bit.ly/sn-510c](http://bit.ly/sn-510c)
+
+### Episode 509
+
+* [bit.ly/grcciphers](http://bit.ly/grcciphers)
+* [grc.com/x/portprobe=20005](http://grc.com/x/portprobe=20005)
+
+### Episode 508
+
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [bit.ly/UKbackdoor](http://bit.ly/UKbackdoor)
+
+### Episode 506
+
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [youtube.com/SGgrc](http://youtube.com/SGgrc)
+
+### Episode 505
+
+* [yubi.co/support](http://yubi.co/support)
+* [bit.ly/pdp8kit](http://bit.ly/pdp8kit)
+
+### Episode 504
+
+* [sourcedna.com/lookup](http://sourcedna.com/lookup)
+* [teespring.com/twit](http://teespring.com/twit)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [google.com/dashboard](http://google.com/dashboard)
+* [google.com/history](http://google.com/history)
+
+### Episode 502
+
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+
+### Episode 501
+
+* [ghacks.net/2015/03/27/firefox-39-tracking-protection-for-](http://ghacks.net/2015/03/27/firefox-39-tracking-protection-for-)
+* [github.com/greatfire](http://github.com/greatfire)
+* [wpengine.com/unmasked](http://wpengine.com/unmasked)
+* [github.com/cn-nytimes](http://github.com/cn-nytimes)
+
+### Episode 500
+
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+
+### Episode 499
+
+* [stackexchange.com/a/16431](http://stackexchange.com/a/16431)
+
+### Episode 498
+
+* [bit.ly/grcciphers](http://bit.ly/grcciphers)
+
+### Episode 497
+
+* [twit.tv/SN](http://twit.tv/SN)
+
 ### Episode 496
 
 * [youtube.com/securitynow](http://youtube.com/securitynow)
