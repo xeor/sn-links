@@ -1,5 +1,39 @@
 ## SecurityNow links (newest on top)
 
+### Episode 537
+
+* [github.com/kuba/simp_le](http://github.com/kuba/simp_le)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [bit.ly/sgscifi](http://bit.ly/sgscifi)
+
+### Episode 536
+
+* [bit.ly/sn-536](http://bit.ly/sn-536)
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+
+### Episode 535
+
+* [bit.ly/sn-535](http://bit.ly/sn-535)
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [bit.ly/sn-535?](http://bit.ly/sn-535?)
+* [x10.mx/apps.html](http://x10.mx/apps.html)
+* [bit.ly/sn-535a](http://bit.ly/sn-535a)
+
+### Episode 531
+
+* [youtube.com/watch?t=672&v=cc1ktZRZ5ZM](http://youtube.com/watch?t=672&v=cc1ktZRZ5ZM)
+* [youtube.com/securitynow](http://youtube.com/securitynow)
+* [imgur.com/ncJENdi](http://imgur.com/ncJENdi)
+* [github.com/open-source-society](http://github.com/open-source-society)
+* [grc.com/securitynow](http://grc.com/securitynow)
+* [weakdh.org/sysadmin.html](http://weakdh.org/sysadmin.html)
+* [grc.com/haystacks](http://grc.com/haystacks)
+* [github.com/open-source-society/computer-science](http://github.com/open-source-society/computer-science)
+
+### Episode 530
+
+* [example.com/login](http://example.com/login)
+
 ### Episode 529
 
 * [twit.tv/live](http://twit.tv/live)
