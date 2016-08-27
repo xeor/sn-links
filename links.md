@@ -1,5 +1,146 @@
 ## SecurityNow links (newest on top)
 
+### Episode 573
+
+* [grc.com/linkfarm](http://grc.com/linkfarm)
+
+### Episode 571
+
+* [lastpass.com/lastpassffx](http://lastpass.com/lastpassffx)
+* [leolaporte.com/blog](http://leolaporte.com/blog)
+
+### Episode 570
+
+* [grc.com/linkfarm](http://grc.com/linkfarm)
+* [grc.com/sr/smart.htm](http://grc.com/sr/smart.htm)
+* [twit.tv/SN](http://twit.tv/SN)
+
+### Episode 569
+
+* [bit.ly/sn569](http://bit.ly/sn569)
+
+### Episode 568
+
+* [bit.ly/sn-568](http://bit.ly/sn-568)
+
+### Episode 567
+
+* [bit.ly/sn-567](http://bit.ly/sn-567)
+
+### Episode 566
+
+* [netgear.com/register](http://netgear.com/register)
+* [bit.ly/sn-566](http://bit.ly/sn-566)
+
+### Episode 564
+
+* [grc.com/doubledriver.zip](http://grc.com/doubledriver.zip)
+* [-boozet.org/dd.htm](http://-boozet.org/dd.htm)
+
+### Episode 563
+
+* [mysnapcam.com/register](http://mysnapcam.com/register)
+* [bit.ly/pdp8kit](http://bit.ly/pdp8kit)
+
+### Episode 562
+
+* [leolaporte.com/blog](http://leolaporte.com/blog)
+
+### Episode 561
+
+* [ring.com/securitynow](http://ring.com/securitynow)
+* [youtube.com/twit](http://youtube.com/twit)
+* [twit.tv/specials](http://twit.tv/specials)
+* [adobe.com/flashplayer](http://adobe.com/flashplayer)
+
+### Episode 559
+
+* [allseenalliance.org/alliance/members](http://allseenalliance.org/alliance/members)
+* [grc.com/zeo.htm](http://grc.com/zeo.htm)
+
+### Episode 558
+
+* [bit.ly/sn-558](http://bit.ly/sn-558)
+
+### Episode 557
+
+* [youtube.com/twit](http://youtube.com/twit)
+* [bit.ly/wupup](http://bit.ly/wupup)
+
+### Episode 555
+
+* [bit.ly/sn-scifi](http://bit.ly/sn-scifi)
+* [bit.ly/sn-sugar](http://bit.ly/sn-sugar)
+
+### Episode 554
+
+* [schneier.com/blog](http://schneier.com/blog)
+* [file.pizza/lobster-zucchini-duck-pecans](http://file.pizza/lobster-zucchini-duck-pecans)
+* [bit.ly/sn-554](http://bit.ly/sn-554)
+
+### Episode 553
+
+* [youtube.com/twit](http://youtube.com/twit)
+* [bit.ly/sn-553](http://bit.ly/sn-553)
+* [twit.tv/newsletter](http://twit.tv/newsletter)
+* [bit.ly/no-gwx](http://bit.ly/no-gwx)
+
+### Episode 552
+
+* [grc.com/sqrl/demo.htm](http://grc.com/sqrl/demo.htm)
+* [exploit-db.com/docs/39527.pdf](http://exploit-db.com/docs/39527.pdf)
+
+### Episode 551
+
+* [bit.ly/wupup](http://bit.ly/wupup)
+* [bit.ly/no-gwx](http://bit.ly/no-gwx)
+
+### Episode 550
+
+* [agic.cc/en](http://agic.cc/en)
+* [bit.ly/rsacrypto](http://bit.ly/rsacrypto)
+
+### Episode 549
+
+* [grc.com/zeo.htm](http://grc.com/zeo.htm)
+
+### Episode 548
+
+* [bit.ly/digicertjob](http://bit.ly/digicertjob)
+* [bit.ly/sn-548-2](http://bit.ly/sn-548-2)
+
+### Episode 547
+
+* [bit.ly/no-gwx](http://bit.ly/no-gwx)
+
+### Episode 546
+
+* [youtube.com/twit](http://youtube.com/twit)
+* [grc.com/zeo](http://grc.com/zeo)
+
+### Episode 545
+
+* [grc.com/zeo](http://grc.com/zeo)
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+
+### Episode 544
+
+* [gstatic.com/b/Brotlidocs/Brotli-2015-09-22.pdf](http://gstatic.com/b/Brotlidocs/Brotli-2015-09-22.pdf)
+* [mxtoolbox.com/SuperTool.aspx](http://mxtoolbox.com/SuperTool.aspx)
+
+### Episode 543
+
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+* [bit.ly/no-gwx](http://bit.ly/no-gwx)
+
+### Episode 542
+
+* [youtube.com/twit](http://youtube.com/twit)
+
+### Episode 541
+
+* [grc.com/securitynow.htm	](http://grc.com/securitynow.htm	)
+
 ### Episode 537
 
 * [github.com/kuba/simp_le](http://github.com/kuba/simp_le)
